@@ -5,7 +5,7 @@
   float: left;
   border: 1px solid #ccc;
   background-color: #f1f1f1;
-  width: 10%;
+  width: auto;
   height: auto;
 }
 
@@ -58,7 +58,7 @@
   grid-auto-flow: dense;
   grid-gap: 10px;
   padding: 0px 10px;
-  width: 60%;
+  width: auto;
 }
 
 .gallery-item{
